@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+.devcontainer
+.vscode
+data
+frames
+PBFSimple
+video
+2021-12-02*
+config.json
+data.csv
+main
+PBFSimple*
